@@ -1,0 +1,39 @@
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #0404c2;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 500px;
+}
+h1 {
+    margin-left: 90px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.date {
+    display: flex;
+}
+
+button {
+    background-color: #02a215b7;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin-left: 30px;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
